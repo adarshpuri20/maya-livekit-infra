@@ -1,0 +1,15 @@
+api_key: devkey
+api_secret: "this_is_a_longer_dev_secret_key_123456"
+ws_url: ws://localhost:7880
+insecure: true
+
+redis:
+  address: 127.0.0.1:6379
+
+s3:
+  region: "us-west-2"
+  bucket: "my-live-feed-app-bucket-0"
+
+chrome:
+  no_sandbox: true
+  disable_gpu: true
