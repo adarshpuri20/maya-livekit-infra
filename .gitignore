@@ -1,0 +1,9 @@
+
+docker-compose.override.yaml
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+.env.local
